@@ -1,0 +1,16 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(47, 41, 36);
+    background-size: cover;
+}
+
+#text_input {
+    width: 45%;
+}
+
+canvas {
+    border-radius: 10px;
+    box-shadow: gray;
+    border-style: dashed;
+    background-color: rgb(80, 130, 99);
+}
